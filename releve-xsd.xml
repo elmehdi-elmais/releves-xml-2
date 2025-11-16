@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<releve RIB="000022222555566667777" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="releve.xsd" >
+    <dateReleve>2025-11-13</dateReleve>
+    <solde>5000</solde>
+    <operations dateDebut="2025-11-01" dateFin="2025-11-16">
+        <operation type="CREDIT" date="2025-11-01" montant="1000" description="Salaire"/>
+        <operation type="DEBIT" date="2025-11-03" montant="200" description="Courses"/>
+        <operation type="DEBIT" date="2025-11-05" montant="150" description="Transport"/>
+        <operation type="CREDIT" date="2025-11-06" montant="300" description="Vente"/>
+        <operation type="DEBIT" date="2025-11-07" montant="120" description="Abonnement internet"/>
+        <operation type="CREDIT" date="2025-11-08" montant="400" description="Virement reçu"/>
+        <operation type="DEBIT" date="2025-11-09" montant="250" description="Facture eau"/>
+        <operation type="CREDIT" date="2025-11-10" montant="500" description="Virement reçu"/>
+        <operation type="DEBIT" date="2025-11-11" montant="300" description="Courses"/>
+        <operation type="DEBIT" date="2025-11-12" montant="350" description="Facture électricité"/>
+    </operations>
+</releve>
