@@ -10,7 +10,9 @@
             </head>
             <body>
                 <h1>Relevé bancaire</h1>                
-                <h2>RIB: <xsl:value-of select="@RIB"/></h2>
+                <h2>RIB: <xsl:value-of select="@RIB"/></h2>                
+                <h2>Date de relevé: <xsl:value-of select="./dateReleve"/></h2>                
+                <h2>Solde: <xsl:value-of select="./solde"/></h2>
                 <h3>Liste des opérations</h3>
                 <table border="1">
                     <tr>
