@@ -14,3 +14,8 @@ exemple de document XML valide par ce DTD</h1>
 <img src="./img/3-1.png" width="300">
 <h2>Document XML</h2>
 <img src="./img/3-2.png" width="300">
+
+
+<h1>4. Créer une feuille de style XSL qui permet d’afficher les toutes les données de ce document XML au format HTML en affichant le total des opérations de débit et le total des opérations de crédit.</h1>
+
+<img src="./img/4.png" width="300">
