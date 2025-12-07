@@ -6,7 +6,6 @@
 <!ELEMENT operations (operation+)>
 <!ELEMENT operation EMPTY>
 
-
 <!ATTLIST operations
        dateDebut CDATA #REQUIRED
        dateFin CDATA #REQUIRED
@@ -20,4 +19,3 @@
         montant CDATA #REQUIRED
         description CDATA #REQUIRED
     >
-
